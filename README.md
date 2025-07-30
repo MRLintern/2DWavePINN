@@ -15,7 +15,7 @@
 ---
 * __Compiler__: `g++ 13.1.0`. A compiler that supports `C++17`.
 * __OS__: Project will be developed on `Ubuntu 20.04`.
-* __Eigen Template Library__: for the Linear Algebra.
+* __Eigen Template Library__: Version `3.3.7` for the Linear Algebra.
 * __CMake__: version `4.0.2`.
 
 ## Getting and Using the Software
