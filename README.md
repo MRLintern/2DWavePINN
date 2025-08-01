@@ -33,5 +33,5 @@
 ## Getting and Using the Software
 * `$ git clone git@github.com:MRLintern/2DWavePINN.git`
 * `$ cd 2DWavePINN`
-* TODO.
+* `$ mkdir build -p && cd build`
 ---
