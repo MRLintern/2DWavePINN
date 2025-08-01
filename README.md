@@ -7,8 +7,12 @@
 ## Theory
 ---
 ### The Wave Equation
-* The wave equation is a __hyperbolic partial differential equation__ describing waves, including __traveling__ and __standing waves__.
-* TODO.
+* The wave equation is a __linear 2nd-order hyperbolic partial differential equation__ describing waves, including __traveling__ and __standing waves__.
+* The 2D wave equation takes the form:
+   * `d^2u/dt^2 = c^2(d^2u/dx^2 + d^2u/dy^2), where:
+   * `u` represents the wave-displacement field,
+   * `t`  repesents time and
+   * `x` & `y` represent the spacial derivates.
 
 ### Physics-Informed Neural Networks
 * ___Physics-Informed Neural Networks___ are a type of ___neural network___ that solve __differential equations__ by __embedding physical laws__ into the __loss function__ of the network.
