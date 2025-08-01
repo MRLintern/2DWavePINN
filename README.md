@@ -9,7 +9,7 @@
 ### The Wave Equation
 * The wave equation is a __linear 2nd-order hyperbolic partial differential equation__ describing waves, including __traveling__ and __standing waves__.
 * The 2D wave equation takes the form:
-   * `d^2u/dt^2 = c^2(d^2u/dx^2 + d^2u/dy^2), where:
+   * `d^2u/dt^2 = c^2(d^2u/dx^2 + d^2u/dy^2)`, where:
    * `u` represents the wave-displacement field,
    * `t`  repesents time and
    * `x` & `y` represent the spacial derivates.
