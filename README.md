@@ -3,6 +3,7 @@
 ## Introduction
 ---
 * This project investigates how we can apply ___Physics-Informed Neural Networks___ to solving the __2D Wave Equation__.
+* Note: this is a work-in-progress.
 
 ## Theory
 ---
