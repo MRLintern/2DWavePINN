@@ -11,6 +11,7 @@
 * The 2D wave equation takes the form:
    * `d^2u/dt^2 = c^2(d^2u/dx^2 + d^2u/dy^2)`, where:
    * `u` represents the wave-displacement field,
+   * `c` represents the wave-speed,
    * `t`  repesents time and
    * `x` & `y` represent the spacial derivates.
 
