@@ -34,7 +34,7 @@
 
 ##### 2. Automatic Differentiation
 * Using a custom __dual number implementation__, compute:
-    * First and second order partial derivatives: `du/dt`, `d^u/dx^2` and `d^2u/dy^2`.
+    * First and second order partial derivatives: `du/dt`, `d^2u/dx^2` and `d^2u/dy^2`.
     * No need for symbolic or finite difference methods.
     * Enables precise calculation of PDE residuals during training.
  
