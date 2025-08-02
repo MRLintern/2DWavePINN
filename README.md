@@ -41,7 +41,7 @@
 ##### 3. Loss Function Components
 * `Total loss` = `PDE residual loss` + `initial condition loss` + `boundary condition loss`.
 
-    * __Physics Loss__: `Total Loss` = `|| d_tt u_theta - C^2*(d_xx u_theta + d_yy u_theta ||^2`.
+    * __Physics Loss__: `Total Loss` = `|| d_tt u_theta - c^2*(d_xx u_theta + d_yy u_theta ||^2`.
     * __Initial condition loss__: `u(x, y, t) = 0`, `d_t u(x, y, t) = 0`.
     * __Homogeneous Neumann or Dirichlet boundary conditions__: `du/dn = 0` (__Neumann__), `u = 0` (__Dirichlet__).
 
