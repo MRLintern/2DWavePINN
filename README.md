@@ -30,7 +30,7 @@
   
 * Inputs: `(x, y, t)`.
 * Output: Predicted wave value `u`.
-* Architecture: Fully connected network with `tanh` activations; Note: `tanh` is the __hyperbolic tangent function.
+* Architecture: Fully connected network with `tanh` activations; Note: `tanh` is the __hyperbolic tangent function__.
 
 ##### 2. Automatic Differentiation
 * Using a custom __dual number implementation__, compute:
