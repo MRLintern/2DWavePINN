@@ -59,7 +59,12 @@
 * __CMake__: version `4.0.2`.
 
 ## Getting and Using the Software
+---
 * `$ git clone git@github.com:MRLintern/2DWavePINN.git`
 * `$ cd 2DWavePINN`
 * `$ mkdir build -p && cd build`
+
+## References
+---
+* __Hands-On Machine Learning with C++__.
 ---
