@@ -66,5 +66,5 @@
 
 ## References
 ---
-* __Hands-On Machine Learning with C++__ by __Kirill Kolodiazhnyi__, published by __Packt Publishing__.
+* ___Hands-On Machine Learning with C++___ by __Kirill Kolodiazhnyi__, published by __Packt Publishing__.
 ---
